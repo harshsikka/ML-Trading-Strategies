@@ -1,2 +1,7 @@
 # ML-Trading-Strategies
-Various Machine Learning based financial market trading strategies
+Several simple Machine Learning based financial market trading strategies, including:
+
+Decision Trees
+Random Trees
+Bagging
+Boosting
